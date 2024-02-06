@@ -1,1 +1,3 @@
 adicionando informações no git da maquina de casa
+
+editando pelo git
